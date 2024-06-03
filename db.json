@@ -1,0 +1,41 @@
+{
+  "profile": {
+    "name": "Fernando"
+  },
+  "user": {
+    "name": "May",
+    "lastName": "Fernández",
+    "age": 24
+  },
+  "class": {
+    "name": "Pedro",
+    "dateOfStar": 24,
+    "graduationDate": 2015
+  },
+  "students": [
+    {
+      "name": "Paula",
+      "lastName": "Martinez",
+      "age": 32,
+      "id": "7eeb"
+    },
+    {
+      "name": "Pat",
+      "lastName": "Gaucha",
+      "age": 25,
+      "id": "c7ff"
+    },
+    {
+      "id": "d094",
+      "name": "Iratze",
+      "lastName": "Eizaguirre",
+      "age": 19
+    },
+    {
+      "id": "d094",
+      "name": "Iratze",
+      "lastName": "Eizaguirre",
+      "age": 19
+    }
+  ]
+}
